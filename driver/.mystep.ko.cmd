@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/robosys2020-kadai1/driver/mystep.ko := ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds -o /home/ubuntu/robosys2020-kadai1/driver/mystep.ko /home/ubuntu/robosys2020-kadai1/driver/mystep.o /home/ubuntu/robosys2020-kadai1/driver/mystep.mod.o;  true
