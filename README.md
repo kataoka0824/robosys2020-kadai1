@@ -18,6 +18,11 @@
 - ステッピングモータ
     - SM-42BYG011
 - Raspberry Pi 3B+
+## 配線：pin情報
+- 赤：29（GPIO5）
+- 緑：31（GPIO6）
+- 黃：33（GPIO13）
+- 青：35（GPIO19）
 ## 参考文献
 - https://github.com/anhquan18/robosys2019_raspberry_led/blob/master/myled.c
     - Nguyen Anh Quan, 2019
